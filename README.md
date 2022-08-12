@@ -1,4 +1,4 @@
-# Marwaita
+# Marwaita Mint
 GTK theme for Cinnamon desktop
 
 ## Requirments
