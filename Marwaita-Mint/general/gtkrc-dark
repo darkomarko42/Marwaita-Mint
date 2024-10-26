@@ -1,7 +1,7 @@
 # Oomox GTK Theme (Numix Fork)
 
 gtk-color-scheme =
-"base_color:#2f3330\nbg_color:#242926\ntooltip_bg_color:#000\nselected_bg_color:#9ad4aa\nfg_color:#d7eedd\ntooltip_fg_color:#fff\nselected_fg_color:#000"
+"base_color:#343735\nbg_color:#2a2c2a\ntooltip_bg_color:#000\nselected_bg_color:#9ad3a9\nfg_color:#d7eedd\ntooltip_fg_color:#fff\nselected_fg_color:#000"
 # Default Style
 
 style "murrine-default" {
